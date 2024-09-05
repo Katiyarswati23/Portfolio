@@ -14,7 +14,7 @@ const About = () => {
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
               <h1>About me</h1>
               <p>
-               Hello,I am Swati. I am 23 years old. I am from kanpur dehat Uttar Pradesh. Recently I have completed my Post Graduation from Hartcourt Butler Technical University Kanpur.
+               Hello, I am Swati. I am 23 years old. I am from kanpur dehat Uttar Pradesh. Recently I have completed my Post Graduation from Hartcourt Butler Technical University Kanpur.
                I have completed my Graduation from D.B.S college kanpur Uttar Pradesh. I am a software developer. I have a good knowledge of HTML, CSS ,JavaScript, ReactJs,NodeJs,MongoDb.
 
 
